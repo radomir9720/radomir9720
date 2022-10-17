@@ -1,50 +1,9 @@
-<style>
-.monospace {
-    font-family: monospace;
-    white-space: nowrap;
-}
-.dotted-hr {
-    border: none;
-    margin-left: .5em;
-    margin-right: .5em;
-    margin-bottom: 0.35em;
-    align-self: flex-end;
-    border-bottom: .25em dotted;
-    width: 100%;
-}
-.flex {
-    display: flex;
-}
-</style>
-
-<h1 align="center" class="monospace">Criminal card</h1>
-
-<div class="flex monospace">
-    Name
-        <hr class="dotted-hr"/>
-    Radomir
-</div>
-
-<div class="flex monospace">
-    Birth year
-        <hr class="dotted-hr"/>
-    1997
-</div>
-
-<div class="flex monospace">
-    Crime
-        <hr class="dotted-hr"/>
-    wasting your time reading this joke
-</div>
-</br>
-
-<hr class="dotted-hr"/>
-</br>
+<img src="./criminal_card.svg" width="100%">
 
 ## __Okay, now seriously 😅__
----
+
 ### Hi there, my name is Radomir 👋
-</br>
+<br/>
 
 - 🔭 I’m currently working on:
   * __[OneMoreSnap](https://onemoresnap.com)__
@@ -60,9 +19,9 @@
     * 🇷🇺 Russian
     * 🇷🇴 Romanian
     * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
-</br></br>
+<br/><br/>
 - 🖥 Languages and technologies i have experience with:
-</br></br>
+<br/><br/>
 <div align="center">
     <!-- Dart -->
     <img src="https://img.shields.io/static/v1?label=&message=Dart&style=for-the-badge&logo=dart&color=16579B"></img>
@@ -80,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&color=2B8FCF&logoColor=white"></img>
     <!-- Python -->
     <img src="https://img.shields.io/static/v1?label=&message=Python&style=for-the-badge&logo=python&color=FCD546&logoColor=white"></img>
-</div></br>
+</div><br/>
 
 - 📫 You can contact me via [telegram](https://t.me/radomir9720)
 
